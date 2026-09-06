@@ -56,8 +56,12 @@ A web platform that empowers citizens and students to report local civic issues 
 cd /home/user/folder-name
 npm init -y
 npm install
+npx npm-detective .
 ```
-
+### Check what packges to install from npm
+```bash
+npm install (packges name)
+```
 ### Running the Application
 
 #### Option A: Unified Fullstack Server (Frontend + Backend on Port 3001)
