@@ -1,4 +1,4 @@
-# Community Connect - Local Civic Problem Reporting Platform
+# FixLocal - Local Civic Problem Reporting Platform
 
 A web platform that empowers citizens and students to report local civic issues (potholes, broken streetlights, water leakage, garbage accumulation, public hazards) and enables municipal authorities to track, prioritize, and resolve them with real-time analytics.
 
@@ -53,7 +53,7 @@ A web platform that empowers citizens and students to report local civic issues 
 
 ### Installation
 ```bash
-cd /home/user/community-connect
+cd /home/user/folder-name
 npm install
 ```
 
