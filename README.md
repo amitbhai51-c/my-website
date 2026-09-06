@@ -127,3 +127,7 @@ community-connect/
         └── samplePhotos.js     # Civic evidence photo presets
 ```
 # Our Website URL: https://fixlocal.zendevelopment.in/
+**Admin :-
+Email: admin@fixlocal.gov 
+Pass: admin123 
+(Municipal Officer)**
