@@ -53,10 +53,10 @@ A web platform that empowers citizens and students to report local civic issues 
 
 ### Installation
 ```bash
+https://github.com/amitbhai51-c/my-website.git
 cd /home/user/folder-name
 npm init -y
 npm install
-npx npm-detective .
 ```
 ### Check what packges to install from npm
 ```bash
