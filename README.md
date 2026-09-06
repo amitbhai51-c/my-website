@@ -53,7 +53,7 @@ A web platform that empowers citizens and students to report local civic issues 
 
 ### Installation
 ```bash
-cd /home/amit/.gemini/antigravity/scratch/community-connect
+cd /home/user/community-connect
 npm install
 ```
 
