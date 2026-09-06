@@ -60,6 +60,10 @@ npx npm-detective .
 ```
 ### Check what packges to install from npm
 ```bash
+npx npm-detective .
+```
+### Install npm packges
+```bash
 npm install (packges name)
 ```
 ### Running the Application
